@@ -1,2 +1,2 @@
 # Smart-Dustbin-system
-IOT Based waste Management system for smart village.
+IOT Based Waste Management System with Metering for Smart Village Project Application
